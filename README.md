@@ -1,16 +1,13 @@
-# movie_info_app
+# &nbsp; MovieApp
 
-A new Flutter project.
+</br>
 
-## Getting Started
+-   인기 영화, 상영중인 영화, 곧 개봉할 영화 리스트를 보여주고 각각의 영화의 상세 정보를 제공하는 어플
 
-This project is a starting point for a Flutter application.
+</br>
 
-A few resources to get you started if this is your first Flutter project:
+-   프로젝트 기간 : 23.09.03 ~ 04
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-   사용기술 : Flutter

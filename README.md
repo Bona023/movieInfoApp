@@ -11,3 +11,7 @@
 </br>
 
 -   사용기술 : Flutter
+
+</br>
+
+- 앱 시연 영상 : [Imgur](https://i.imgur.com/egqrn7e.mp4)
